@@ -2,7 +2,7 @@
 body{
 	margin:0; 
 	padding: 0;
-	background-color: lightpink;
+	background-color: white;
 }
 
 .gamediv{
@@ -21,7 +21,7 @@ body{
 }
 
 #title{
-	color: #ffffff;
+	color: #lightpink;
 	float: left;
 }
 
@@ -39,5 +39,5 @@ body{
 	height:200px;
 	float:left; 
 	margin-left: 90px;
-	color: #ffffff;
+	color: #lightpink;
 }
